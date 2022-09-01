@@ -1,1 +1,1 @@
-Welcome, a scripts that create a directory
+creates a directory named my_first_directory in the /tmp/ directory
