@@ -1,1 +1,1 @@
-Write a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders
+Write a command that finds all empty files and directories in the current directory and all sub-directories
