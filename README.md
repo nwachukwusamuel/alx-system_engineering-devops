@@ -1,1 +1,1 @@
-Write a script that changes the owner and the group owner of _hello to vincent and staff respectively
+Write a script that prints “Hello, World”, followed by a new line to the standard output
