@@ -1,1 +1,1 @@
-Create a script that creates a new local variable
+create a script that create a new local variable
